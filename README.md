@@ -1,2 +1,9 @@
-# backend
-backend portion of coco-annotator
+# COCO Annotator Backend
+
+## Web Server
+
+## Workers
+
+## Database
+
+## Config
